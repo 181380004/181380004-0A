@@ -67,8 +67,8 @@ button#contactbtn:hover{
 }
 .pic{
     text-align: right;
-    length:80px;
-    width: 40ox;
+    length:50px;
+    width: 20ox;
 }
 .abc{
     text-align: center;
@@ -80,19 +80,19 @@ button#contactbtn:hover{
 }
 
 .pic2{
-    padding: 30px;
+    padding: 40px;
     margin: 50px;
-    width: 30px;
+    width: 40px;
 }
 .pic3{
-    padding: 30px;
+    padding: 40px;
     margin: 50px;
-    width: 30px;
+    width: 40px;
 }
 .pic4 {
-    padding: 30px;
+    padding: 40px;
     margin: 50px;
-    width: 30px;
+    width: 40px;
 }
 
 .sb{
