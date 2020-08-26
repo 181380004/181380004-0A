@@ -1,0 +1,130 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+.background{
+    background-image: url("hero.jpg");
+    height: 100vh;
+    background-repeat: none;
+    background-size: cover;
+}
+.align-center{
+    padding-top:200px;
+}
+.text-center{
+    text-align: center;
+}
+.text-white{
+    color: beige;
+}
+.text-red{
+    color: brown;
+}
+.display-1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+.display-2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:25px;
+}
+.btn{
+    font-size: 20px;
+    border: none;
+    padding: 9 px 25px;
+}
+.btn-red{
+    background-color: red;
+    color:white;
+
+}
+.navbar{
+    display: flex;
+    background-color: #3a3a3a;
+    margin top: 0;
+}
+.btn-dark{
+    background-color: black;
+    color: white;
+}
+button#explorebtn:hover{
+    background-color: black;
+}
+button#contactbtn:hover{
+    background-color: red;
+}
+
+.flex-container{
+    text-align:left;
+    width:45%;
+}
+.my services{
+    display: flex;
+    background-color: salmon;
+}
+.pic{
+    text-align: right;
+    length:80px;
+    width: 40ox;
+}
+.abc{
+    text-align: center;
+    
+}
+.serve{
+    text-align: center;
+    background-color: salmon;
+}
+
+.pic2{
+    padding: 30px;
+    margin: 50px;
+    width: 30px;
+}
+.pic3{
+    padding: 30px;
+    margin: 50px;
+    width: 30px;
+}
+.pic4 {
+    padding: 30px;
+    margin: 50px;
+    width: 30px;
+}
+
+.sb{
+    border:none;
+    background-color: violet;
+    font-size: medium;
+    padding: 9px 25px;
+}
+.contnt{
+    text-align: center;
+}
+.Abt{
+    display: flex;
+}
+.helo{
+    background-color: thistle;
+
+}
+.name{
+    margin: 250px;
+    
+}
+nav.navbar . a{
+    text-decoration: none;
+    color: silver;
+    padding: 25px;
+    transition: ease-in-out0.5s;
+.finish{
+    color: silver;
+    height: 25px;
+    padding: 30px;
+    background-color: teal;
+text-align: center;
+}
+
